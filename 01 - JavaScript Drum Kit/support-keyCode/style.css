@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+body {
+  text-align: center;
+}
+
+header {
+  background: chartreuse;
+  padding: 2rem;
+}
+main {
+  margin: 2rem;
+}
+.keyCode {
+  font-size: 5rem;
+}
+.keyPressed {
+  font-size: 2rem;
+}
